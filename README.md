@@ -2,7 +2,7 @@
 My keyboard layout for the Corne V4 keyboard. \
 The config is for the [vial](https://get.vial.today/) software.
 ## Overall layout
-![picture of overall layout](./corne-v4-layout.png)
+![picture of overall layout](./assets/corne-v4-layout.png)
 
 ## Layer 0 (Base layer)
 ![picture of layer 0](./assets/layer-1)
