@@ -1,6 +1,10 @@
 # keyboard-layout
 My keyboard layout for the Corne V4 keyboard. \
 The config is for the [vial](https://get.vial.today/) software.
+
+If you don't have a Corne v4 keyboard and would still like to use the symbol-layer. \
+I made a [kanata](https://github.com/jtroo/kanata) config that uses the LAlt and RAlt key to simulate the experience of having a symbol layer.
+
 ## Overall layout
 ![picture of overall layout](./assets/corne-v4-layout.png)
 
