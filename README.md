@@ -14,6 +14,6 @@ I made a [kanata](https://github.com/jtroo/kanata) config that uses the LAlt and
 ![picture of layer 1](./assets/layer-2)
 ## Layer 2 (Symbol layer)
 Heavily inspired by [this article](https://getreuer.info/posts/keyboards/symbol-layer/index.html) \
-![picture of layer 2](./assets/layer-3)
+![picture of layer 2](./assets/layer-4)
 ## Layer 3 (movement keys + function keys & other macro's)
-![picture of layer 3](./assets/layer-4)
+![picture of layer 3](./assets/layer-3)
